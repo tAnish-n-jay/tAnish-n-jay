@@ -37,7 +37,7 @@ class Tanish:
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### Cybersecurity + ML
 
@@ -51,7 +51,7 @@ class Tanish:
 |---|---|---|
 | **[Real-Time Metro Occupancy System](https://github.com/tAnish-n-jay/Real-Time-Metro-Occupancy-System)** ⭐ | Live coach occupancy monitoring system using ESP32 and load cells. Streams weight data in real time to track crowding per coach. | ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00C3FF?style=flat-square&logo=internetofthings&logoColor=white) |
 
-### Developer Tools & Utilities
+###  Developer Tools & Utilities
 
 | Project | What it is | Tech |
 |---|---|---|
@@ -60,7 +60,7 @@ class Tanish:
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -95,18 +95,48 @@ class Tanish:
 
 ---
 
-##  Currently Focused On
+## Currently Focused On
 
 -  Deploying **PhishPrint V2** live — Render + Streamlit Community Cloud
--  AI/ML major starting next semester — getting ahead on the fundamentals
 -  Working through a **structured DSA roadmap** for placements: Arrays → Two Pointers → Sliding Window → Stack → Binary Search → Linked Lists → Trees → DP → Graphs
--  Building a **placement mentor app** — AI-powered prep tool for students like me
-
-**On the radar (not built yet):** deep learning from scratch · NLP pipelines · system design
+-  AI/ML major starting next semester — getting ahead on the fundamentals
 
 ---
 
-##  GitHub Stats
+## What I'm Building Next
+
+### Smart Metro System V3
+Upgrading the existing metro occupancy monitor with a full dual-sensor IoT stack:
+
+- **ESP32-CAM** — overhead vision node alongside the existing load cell platform
+- **YOLOv8n** person detection — pretrained, runs on the Flask backend, zero custom training needed
+- **50-50 sensor fusion** — weight-based count + vision-based count fused for higher confidence
+- **Mismatch detection** — flags when sensors disagree by ≥2 (catches luggage-vs-people false positives)
+- **SQLite** storage → Telegram bot with live queries, peak-hour projections and push alerts
+- Research paper submission alongside the prototype
+
+```
+[Load Cell] → [ESP32 DevKit V1] ──→
+                                        Flask Fusion Engine → SQLite → Telegram Bot
+[ESP32-CAM]     → [YOLO Vision]    ──→
+```
+
+### Badminton Shot Analyser
+A wrist-worn TinyML shot classifier — no phone, no camera, no internet required during play:
+
+- **ESP32-C3 Mini + MPU-6050** IMU — captures 6-axis swing motion at 100 Hz
+- **On-device inference** — TFLite model classifies smash / clear / drop / net / drive / lift in real time
+- **LED feedback** — instant shot confirmation on the wearable itself
+- **Session logging** — shot counts + timestamps dumped post-session over serial or BLE
+- Target: ≥85% accuracy, <100ms latency, full session on a single LiPo charge
+
+```
+MPU-6050 → ESP32-C3 → swing segmentation → TFLite inference → LED + flash log
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
