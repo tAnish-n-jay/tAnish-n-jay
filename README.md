@@ -31,7 +31,6 @@ class Tanish:
     ml_stack   = ["XGBoost", "LightGBM", "Scikit-learn", "SHAP", "Pandas", "NumPy"]
     backend    = ["FastAPI", "Streamlit", "Flask"]
     tools      = ["Git", "GitHub", "Jupyter", "VS Code", "ESP32"]
-    target     = "FAANG — Google L3 SWE"
     approach   = "Build it. Break it. Understand it. Ship it."
 ```
 
@@ -39,7 +38,7 @@ class Tanish:
 
 ## Featured Projects
 
-### Cybersecurity + ML
+### AI/ML + Cybersecurity
 
 | Project | What it is | Tech |
 |---|---|---|
