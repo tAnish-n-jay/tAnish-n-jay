@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3a2a,100:00ff88&height=220&section=header&text=Tanish%20N%20Jay&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Building%20real%20systems%20to%20prep%20for%20the%20real%20world&descAlignY=60&descSize=18" alt="Tanish N Jay banner" width="100%"/>
 
-<a href="https://github.com/tAnish-n-jay">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=00FF88&center=true&vCenter=true&width=720&lines=Student+%7C+AI%2FML+%7C+Builder;Phishing+Detector+%E2%80%A2+97.97%25+Accuracy;IoT+%E2%80%A2+FastAPI+%E2%80%A2+XGBoost+%E2%80%A2+Streamlit;Targeting+FAANG+%E2%80%94+Building+the+path+one+project+at+a+time." alt="Typing animation"/>
-</a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish_N_Jay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-n-jay-732a7b383/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tanish1917-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanish1917/)
-[![GitHub](https://img.shields.io/badge/GitHub-tAnish--n--jay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tAnish-n-jay)
 [![Location](https://img.shields.io/badge/Bengaluru-India-00ff88?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/tAnish-n-jay)
 
 </div>
@@ -168,7 +164,6 @@ Always up to talk about ML projects, placement prep, IoT, or building in public.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-n-jay-732a7b383/)
 [![LeetCode](https://img.shields.io/badge/Follow_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanish1917/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tAnish-n-jay)
 
 <br/>
 
