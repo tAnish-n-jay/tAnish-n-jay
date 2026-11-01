@@ -100,7 +100,7 @@ class Tanish:
 
 ## What I'm Building Next
 
-### Smart Metro System V3
+### Smart Metro System V2
 Upgrading the existing metro occupancy monitor with a full dual-sensor IoT stack:
 
 - **ESP32-CAM** — overhead vision node alongside the existing load cell platform
